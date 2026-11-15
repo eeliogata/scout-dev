@@ -1,0 +1,14 @@
+.venv/
+.aiven/
+.tor/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+!.env.example
+ui/node_modules/
+ui/dist/
+output/
+.playwright-cli/
+.sessions/
